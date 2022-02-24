@@ -1,9 +1,6 @@
 
 # Quickstart: Extract printed text (OCR) using the Computer Vision REST API and Python
 
-> [!NOTE]
-> If you're extracting English language text, consider using the new [Read operation](../concept-recognizing-text.md). A [Python quickstart](./python-hand-text.md) is available. 
-
 In this quickstart, you will extract printed text with optical character recognition (OCR) from an image using the Computer Vision REST API. With the [OCR](https://westcentralus.dev.cognitive.microsoft.com/docs/services/computer-vision-v3-1-ga/operations/56f91f2e778daf14a499f20d) method, you can detect printed text in an image and extract recognized characters into a machine-usable character stream.
 
 You can run this quickstart in a step-by step fashion using a Jupyter Notebook.
